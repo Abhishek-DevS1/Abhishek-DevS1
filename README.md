@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sawant</h1>
-<h3 align="center">Bridging Code and Infrastructure | DevOps | Python | Cloud |CI/CD | Terraform | Jenkins | DevOps Enthusiast | Shell Scripter | Passionate about Automation & Security</h3>
+<h3 align="center">Bridging Code and Infrastructure | DevOps Enthusiast | Linux | Networking | Python | Cloud |CI/CD | Jenkins | Shell Scripter | Grafana | Passionate about Automation & Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-devs1&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-devs1" /> </p>
 
